@@ -34,8 +34,33 @@
 let isLoggedIn = 1
 
 let boolISLoggedIn = Boolean(isLoggedIn)
-console.log(boolISLoggedIn);
+// console.log(boolISLoggedIn);
 
 // 1=>true,0=>false
 // ""=>false
 // "ritik"=>true
+
+// console.log(1+"2");
+// console.log("1"+2);
+// console.log("1"+2+2);
+// console.log(1+2+"2");
+// console.log(+true);
+// console.log(+"");
+
+let gameCounter = 100
+gameCounter++;
+// console.log(gameCounter);
+
+// comparison
+// console.log("2" > 1);
+// console.log(2 > "1");
+
+// console.log(null > 0 );
+// console.log(null == 0);
+// console.log(null >= 0);
+
+// console.log(undefined > 0);
+// console.log(undefined == 0);
+// console.log(undefined >= 0);
+
+// === strict check also checks datatypes are same or not
